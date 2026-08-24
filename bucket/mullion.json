@@ -1,12 +1,12 @@
 {
-    "version": "1.5.1",
+    "version": "1.5.2",
     "description": "PHP version manager & local dev server (Caddy, MySQL, .test domains, HTTPS)",
     "homepage": "https://github.com/anabiiil/mullion",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/anabiiil/mullion/releases/download/v1.5.1/mullion-v1.5.1-windows-amd64.zip",
-            "hash": "21b463833ed4bb944b9d56e3200d51dd4037ecf0e39f289fb55f8094922850e0"
+            "url": "https://github.com/anabiiil/mullion/releases/download/v1.5.2/mullion-v1.5.2-windows-amd64.zip",
+            "hash": "af8b4efcaa937550515b82b6d4e243ff0c93e21dc4a97ae411b8f88d3ccdb85d"
         }
     },
     "bin": "mullion.exe",
